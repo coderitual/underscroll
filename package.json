@@ -1,0 +1,29 @@
+{
+  "name": "underscroll",
+  "version": "0.1.0",
+  "description": "Mysterious menu hidden under mouse scroll and simple gesture. Use wisely on mobiles and desktops.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderitual/underscroll.git"
+  },
+  "keywords": [
+    "menu",
+    "scroll",
+    "mobile",
+    "context",
+    "navigation"
+  ],
+  "author": "coderitual",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coderitual/underscroll/issues"
+  },
+  "homepage": "https://github.com/coderitual/underscroll#readme",
+  "devDependencies": {
+    "microbundle": "^0.9.0"
+  }
+}
