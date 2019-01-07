@@ -1,2 +1,2 @@
 # underscroll
-Mysterious menu hidden under mouse scroll and simple gesture. Use wisely on mobiles and desktops.
+JavaScript menu hidden under mouse scroll and simple gesture. Use wisely on mobiles and desktops.
